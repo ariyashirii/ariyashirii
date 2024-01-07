@@ -16,7 +16,7 @@ Hey, I'm Ariya. I'm a frontend developer with 1 years of experience.<br>I'm pass
 [![](https://visitcount.itsvg.in/api?id=ariyashirii&icon=3&color=7)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/airyashiri) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ariyashiri) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
